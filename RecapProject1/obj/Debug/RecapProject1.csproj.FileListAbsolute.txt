@@ -1,0 +1,10 @@
+E:\Git\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe.config
+E:\Git\RecapProject1\RecapProject1\bin\Debug\RecapProject1.exe
+E:\Git\RecapProject1\RecapProject1\bin\Debug\RecapProject1.pdb
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.AssemblyReference.cache
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Form1.resources
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.Properties.Resources.resources
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.GenerateResource.cache
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.csproj.CoreCompileInputs.cache
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.exe
+E:\Git\RecapProject1\RecapProject1\obj\Debug\RecapProject1.pdb
